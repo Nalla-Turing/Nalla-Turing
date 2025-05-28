@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mrinal Dhami</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla-turing&label=Profile%20views&color=0e75b6&style=flat" alt="nalla-turing" /> </p>
 
-- 🔭 I’m currently working on [Working on a rendering library using OpenGL Core](AI Automated navigation based on Laser based detection)
+- 🔭 I’m currently working on
+- Working on a rendering library using OpenGL Core
+- AI Automated navigation based on Laser based detection
 
 - 🌱 I’m currently learning **ROS, OpenGL**
 
