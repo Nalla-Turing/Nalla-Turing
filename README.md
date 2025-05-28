@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mrinal Dhami</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla-turing&label=Profile%20views&color=0e75b6&style=flat" alt="nalla-turing" /> </p>
 
-🔭 Current Projects:
+- 🔭 **Current Projects:**
+  - Developing a rendering library using **OpenGL Core**
+  - Building an AI-based automated navigation system using **laser-based detection**
 
-Developing a rendering library using OpenGL Core
+- 🌱 **Currently Learning:**
+  - **ROS (Robot Operating System)**
+  - **OpenGL**
 
-Building an AI-based automated navigation system using laser-based detection
+- ⚡ **Fun Fact:**
+  - I like ice cream 🍦
+  - I wanna create my own simple ai automated humanoid robot :D
 
-🌱 Currently Learning:
-
-ROS (Robot Operating System)
-
-OpenGL
-
-⚡ Fun Fact:
-
-I like ice cream 🍦
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
